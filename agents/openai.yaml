@@ -1,0 +1,4 @@
+interface:
+  display_name: "倪海厦帮你排盘要多做好事 SKILL"
+  short_description: "离线天纪资料检索、四柱紫微排盘与传统术数参考"
+  default_prompt: "Use $ni-haixia-pai-pan-duo-zuo-hao-shi to search local Tian Ji materials and provide a source-based chart reading."
